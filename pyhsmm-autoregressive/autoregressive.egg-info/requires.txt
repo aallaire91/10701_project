@@ -1,0 +1,6 @@
+Cython>=0.20.1
+numpy
+scipy
+matplotlib
+pybasicbayes>=0.2.1
+pyhsmm

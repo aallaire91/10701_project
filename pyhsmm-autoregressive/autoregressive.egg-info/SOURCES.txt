@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.py
+autoregressive/__init__.py
+autoregressive/distributions.py
+autoregressive/messages.cpp
+autoregressive/messages.h
+autoregressive/messages.pyx
+autoregressive/models.py
+autoregressive/nptypes.h
+autoregressive/util.h
+autoregressive/util.py
+autoregressive.egg-info/PKG-INFO
+autoregressive.egg-info/SOURCES.txt
+autoregressive.egg-info/dependency_links.txt
+autoregressive.egg-info/requires.txt
+autoregressive.egg-info/top_level.txt

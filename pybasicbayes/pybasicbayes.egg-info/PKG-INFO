@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: pybasicbayes
+Version: 0.2.4
+Summary: Basic utilities for Bayesian inference
+Home-page: http://github.com/mattjj/pybasicbayes
+Author: Matthew James Johnson
+Author-email: mattjj@csail.mit.edu
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: bayesian,inference,mcmc,variational inference,mean field,vb
+Platform: ALL
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python

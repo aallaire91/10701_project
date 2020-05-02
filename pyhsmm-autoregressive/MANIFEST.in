@@ -1,0 +1,1 @@
+recursive-include autoregressive *.pyx *.c *.h *.cpp
